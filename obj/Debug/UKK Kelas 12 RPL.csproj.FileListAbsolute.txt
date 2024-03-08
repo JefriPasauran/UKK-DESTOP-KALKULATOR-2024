@@ -1,0 +1,10 @@
+C:\Users\ACER-PC\source\repos\UKK Kelas 12 RPL\UKK Kelas 12 RPL\bin\Debug\UKK Kelas 12 RPL.exe.config
+C:\Users\ACER-PC\source\repos\UKK Kelas 12 RPL\UKK Kelas 12 RPL\bin\Debug\UKK Kelas 12 RPL.exe
+C:\Users\ACER-PC\source\repos\UKK Kelas 12 RPL\UKK Kelas 12 RPL\bin\Debug\UKK Kelas 12 RPL.pdb
+C:\Users\ACER-PC\source\repos\UKK Kelas 12 RPL\UKK Kelas 12 RPL\obj\Debug\UKK Kelas 12 RPL.csproj.AssemblyReference.cache
+C:\Users\ACER-PC\source\repos\UKK Kelas 12 RPL\UKK Kelas 12 RPL\obj\Debug\UKK_Kelas_12_RPL.Form1.resources
+C:\Users\ACER-PC\source\repos\UKK Kelas 12 RPL\UKK Kelas 12 RPL\obj\Debug\UKK_Kelas_12_RPL.Properties.Resources.resources
+C:\Users\ACER-PC\source\repos\UKK Kelas 12 RPL\UKK Kelas 12 RPL\obj\Debug\UKK Kelas 12 RPL.csproj.GenerateResource.cache
+C:\Users\ACER-PC\source\repos\UKK Kelas 12 RPL\UKK Kelas 12 RPL\obj\Debug\UKK Kelas 12 RPL.csproj.CoreCompileInputs.cache
+C:\Users\ACER-PC\source\repos\UKK Kelas 12 RPL\UKK Kelas 12 RPL\obj\Debug\UKK Kelas 12 RPL.exe
+C:\Users\ACER-PC\source\repos\UKK Kelas 12 RPL\UKK Kelas 12 RPL\obj\Debug\UKK Kelas 12 RPL.pdb
